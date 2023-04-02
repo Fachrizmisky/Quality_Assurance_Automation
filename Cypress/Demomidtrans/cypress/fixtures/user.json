@@ -1,0 +1,20 @@
+{
+  "username": "oimtrust",
+  "password": "rahasia123",
+
+  "username1": "standard_user",
+  "password1": "secret_sauce",
+
+  "username2": "locked_out_user",
+  "password2": "secret_sauce",
+
+  "username3": "problem_user",
+  "password3": "secret_sauce",
+
+  "username4": "performance_glitch_user",
+  "password4": "secret_sauce",
+   
+  "username5": "username",
+  "password5": "password"
+ 
+}

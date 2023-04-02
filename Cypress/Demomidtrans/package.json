@@ -1,0 +1,15 @@
+{
+  "name": "CypessEdu",
+  "version": "1.0.0",
+  "description": "automation ui using cypress",
+  "main": "index.js",
+  "author": "fachri",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^12.2.0"
+  },
+   "scripts": {
+    "cy:open": "cypress open"
+   }
+
+}
